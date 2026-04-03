@@ -1,16 +1,8 @@
 #profile-title: StealthNet
 #profile-update-interval: 1
 #support-url: https://t.me/StealthNetVPN
-#announce: ⭐️ - стабильный сервер      ⚡️ - обход белых списков
+#announce: 
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://4abdcf08-1205-4381-ae85-2b0c87b968fa@212.109.219.25:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=uqH7BYa_6oMyt0G9FkWhLCm9ASxrE3vSyECnjlszyCQ&sid=503e96e0&spx=/#%F0%9F%87%B3%F0%9F%87%B1StealthNet%20%7C%20LTE%E2%9A%A1%EF%B8%8F%E2%84%961
-vless://4abdcf08-1205-4381-ae85-2b0c87b968fa@212.109.218.255:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=KeceVB4842We8LwUiQCbYPaR66RSX2lkQfTk8s1-bko&sid=e45d919b&spx=/#%F0%9F%87%A9%F0%9F%87%AAStealthNet%20%7C%20LTE%E2%9A%A1%EF%B8%8F%E2%84%962
-vless://c8d65a3a-5002-4dff-bfd6-d4b9ef90b9cc@nld-x8.plugvpn.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=nld-x8.plugvpn.ru&pbk=5H0Z3DWs6UEdCx-uw3Jvv3dyFCsgoFjMNdlapdbwQXk&sid=7c050e5f16cb21de#%F0%9F%87%B3%F0%9F%87%B1StealthNet%20%7C%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%E2%AD%90%EF%B8%8F
-vless://c8d65a3a-5002-4dff-bfd6-d4b9ef90b9cc@usa-f2.plugvpn.ru:443?flow=&type=grpc&mode=gun&serviceName=usa-f2.plugvpn.ru&security=none#%F0%9F%87%BA%F0%9F%87%B8StealthNet%20%7C%20%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%E2%AD%90%EF%B8%8F
-vless://4abdcf08-1205-4381-ae85-2b0c87b968fa@2.27.22.252:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=-774R__ElmzEs3pxe62MgsxHihcM43-_2UEfLjF8Bzw&sid=be7a0fd4&spx=/#%F0%9F%87%A9%F0%9F%87%AAStealthNet%20%7C%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%E2%AD%90%EF%B8%8F
-vless://4abdcf08-1205-4381-ae85-2b0c87b968fa@45.140.167.219:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=suRTQx-dhavBEuuows0W_-kPJAKe22A38-6sSgcev1I&sid=e2443b72&spx=/#%F0%9F%87%AC%F0%9F%87%A7StealthNet%20%7C%20%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F%E2%AD%90%EF%B8%8F
-vless://4abdcf08-1205-4381-ae85-2b0c87b968fa@45.12.151.109:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=0Zm60rg5a9VsY3Vrl66QPelIdTYiXEmy1zO6TDBUaRE&sid=b5c8c564&spx=/#%F0%9F%87%AB%F0%9F%87%AEStealthNet%20%7C%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%E2%AD%90%EF%B8%8F
-vless://c8d65a3a-5002-4dff-bfd6-d4b9ef90b9cc@pol-m6.plugvpn.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=pol-m6.plugvpn.ru&pbk=7zfV0yJHG46hnUm-89N5D8t4ZCN2_9yD8rs8uCCPgk0&sid=c2c516d6fcfec79b#%F0%9F%87%B5%F0%9F%87%B1StealthNet%20%7C%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%E2%AD%90%EF%B8%8F
-vless://4abdcf08-1205-4381-ae85-2b0c87b968fa@185.153.182.219:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=7A51pl2-aISqz8FlvXrQpkkIPGkUMJwJdLClHc6PinU&sid=a8dcb4e5&spx=/#%F0%9F%87%B9%F0%9F%87%B7StealthNet%20%7C%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F%E2%AD%90%EF%B8%8F
-vless://4abdcf08-1205-4381-ae85-2b0c87b968fa@194.246.114.143:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=KbZYV8zJh_L00KNiwHa-1WfXGHvol7PTb_NJ3WPZxkI&sid=c8827451&spx=/#%F0%9F%87%AD%F0%9F%87%B0StealthNet%20%7C%20%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3%E2%AD%90%EF%B8%8F
+vless://4de9a652-bba4-4e4c-8483-70ec4fbd7ad3@0.0.0.0:1?flow=&type=tcp&headerType=none&security=none#%F0%9F%9A%A8%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81%20%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD
+vless://4de9a652-bba4-4e4c-8483-70ec4fbd7ad3@0.0.0.0:1?flow=&type=tcp&headerType=none&security=none#%E2%80%BC%EF%B8%8F%D0%A2%D0%93%D0%9A%20@StealthNetVPN%E2%80%BC%EF%B8%8F
