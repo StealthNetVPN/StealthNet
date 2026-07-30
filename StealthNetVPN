@@ -1,7 +1,7 @@
 #profile-title: StealthNet
 #profile-update-interval: 1
 #support-url: https://t.me/StealthNetVPN
-#announce: ❗️LTE СЕРВЕРА ВРЕМЕННО НЕДОСТУПНЫ❗️
+#announce: ❗️LTE СЕРВЕРА МОГУТ БЫТЬ НЕСТАБИЛЬНЫ❗️
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://6db6b948-655f-4f68-a9e7-865050e05b31@free-exp.kyras.pw:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=free-exp.kyras.pw&pbk=88iqD2AXRgfSPupUBIKS0rGsWXLc7TSl7wkAe4HfEjU&sid=8f2ffff1b0a3e4f7#%F0%9F%87%AA%F0%9F%87%BAStealthNet%20%7C%20%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%E2%AD%90%EF%B8%8F
